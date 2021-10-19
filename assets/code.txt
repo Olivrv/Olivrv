@@ -1,0 +1,13 @@
+>>> AboutMe.2021
+  print("Hello, World")
+  myInterests = ["AI", "Machine Learning", "Algorythms", "Programming",
+                 "Pretty much anything related to programming and computers"]
+  currentlyLearning = ["Kotlin", "C#", "Python"]
+  currentlyWorkingOn = 
+  if Interested == True:
+    print("Contact me! I'm eager to learn and discover, "
+          "And if I can help while doing so, even better!")
+  def contact_me(you):
+    options = {"Github": "I'll get back to you.", 
+               "Email address": "olivier.db.dev@gmail.com"}
+    return options
