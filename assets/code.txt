@@ -3,7 +3,7 @@
   myInterests = ["AI", "Machine Learning", "Algorythms", "Programming",
                  "Pretty much anything related to programming and computers"]
   currentlyLearning = ["Kotlin", "C#", "Python"]
-  currentlyWorkingOn = 
+  currentlyWorkingOn = ["CS50AI Harvard", "AndroidApps", "Pinned Projects"]
   if Interested == True:
     print("Contact me! I'm eager to learn and discover, "
           "And if I can help while doing so, even better!")
