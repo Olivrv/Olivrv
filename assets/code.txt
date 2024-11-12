@@ -1,11 +1,11 @@
 Made with : https://ray.so/
 
->>> AboutMe.2021
+>>> AboutMe.2025
   print("Hello, World")
   myInterests = ["AI", "Machine Learning", "Algorythms", "Programming",
                  "Pretty much anything related to programming and computers"]
   currentlyLearning = ["Kotlin", "C#", "Python"]
-  currentlyWorkingOn = ["CS50AI Harvard", "AndroidApps", "Pinned Projects"]
+  currentlyWorkingOn = ["CS50AI", "AndroidApps", "Pinned Projects"]
   if Interested == True:
     print("Contact me! I'm eager to learn and discover, "
           "And if I can help while doing so, even better!")
